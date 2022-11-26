@@ -5,7 +5,7 @@ After the 'Detect Breast Cancer' button is pressed, it returns the test image wi
 
 ## Article
 
-The article with the explanations is [Building a Web Application to detect Breast Cancer in Ultrasound images]().
+The article with the explanations is [Building a Web Application to detect Breast Cancer in Ultrasound images](https://medium.com/mlearning-ai/building-a-web-application-to-detect-breast-cancer-in-ultrasound-images-df391483fbd9?sk=0718b6dfc0475bbab62c354288207027).
 
 ## Tools used in the project
 
