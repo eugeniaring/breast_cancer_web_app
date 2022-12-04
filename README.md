@@ -28,5 +28,5 @@ The article with the explanations is [Building a Web Application to detect Breas
 
 where:
 * ```input``` and ```output``` correspond to the path of the input images and path of the produced images by the web app
-* width and height need to be equal to 640 to apply the model on the test images
+* ```width``` and ```height``` need to be equal to 640 to apply the model on the test images
 * ```model``` and ```label``` correspond to the path of the saved artifact and the path of the label map
