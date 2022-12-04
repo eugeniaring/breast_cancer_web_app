@@ -22,3 +22,8 @@ The article with the explanations is [Building a Web Application to detect Breas
   * ```predict.py```: Python script to make prediction on new images
   * ```app.py```: Python script to build the web application
   
+## Run the application with the following command line
+
+```streamlit run app.py --input "../input" --output "../output"```
+
+where ```input``` and ```output``` correspond to the path of the input images and path of the produced images by the web app
