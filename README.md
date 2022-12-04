@@ -24,6 +24,7 @@ The article with the explanations is [Building a Web Application to detect Breas
   
 ## Run the web application 
 
+```cd model_architecture```
 ```streamlit run app.py --input "../input" --output "../output" --width 640 --height 640 --threshold 0.7 --model "../saved_model" --label "../label_map.pbtxt"```
 
 where:
