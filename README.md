@@ -26,9 +26,7 @@ The article with the explanations is [Building a Web Application to detect Breas
 
 ```cd model_architecture```
 
-```streamlit run app.py --input "../input" --output "../output" --width 640 --height 640 --threshold 0.7 --model "../saved_model" --label "../label_map.pbtxt"```
+```streamlit run app.py --model "../saved_model" --label "../label_map.pbtxt"```
 
 where:
-* ```input``` and ```output``` correspond to the path of the input images and path of the produced images by the web app
-* ```width``` and ```height``` need to be equal to 640 to apply the model on the test images
 * ```model``` and ```label``` correspond to the path of the saved artifact and the path of the label map
