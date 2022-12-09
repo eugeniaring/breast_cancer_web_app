@@ -1,7 +1,7 @@
 # Web Application to detect Breast Cancer in Ultrasound images
 
 I have built a web application to detect breast cancer from ultrasound images. It takes as input an image with format .png or .jpg.
-After the 'Detect Breast Cancer' button is pressed, it returns the test image with the predicted bounding box.
+After the 'Detect Breast Cancer' button is pressed, it returns the test image with/without the predicted bounding box.
 
 ## Article
 
