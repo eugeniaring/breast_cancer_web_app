@@ -24,6 +24,8 @@ The article with the explanations is [Building a Web Application to detect Breas
   
 ## Run the web application 
 
+```pip install -r requirements.txt```
+
 ```cd model_architecture```
 
 ```streamlit run app.py --model "../saved_model" --label "../label_map.pbtxt"```
